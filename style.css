@@ -1,0 +1,111 @@
+.user-table{
+    width: 400px;
+    margin: auto;
+    border-spacing: 0 0;
+    border-collapse: collapse;
+    
+}
+.user-table td, 
+.user-table th{
+    border: 1px solid;
+    border-color: #dfe5eb;
+    padding: 10px 5px;
+    min-width: 220px;
+       
+}
+.title-01{
+    font-size: 20px;
+    font-weight: 700;
+    color: #162d3d;    
+}
+.title-02{
+    font-size: 14px;
+    color: #162d3d;
+}
+.title-03{
+    font-size: 16px;
+    color: #dfe5eb
+}
+#titlel-03{
+    font-size: 12px;
+    color: #7a92a5
+    font-family: arial;
+}
+.title-04{
+    font-size: 16px;
+    color: #000000;
+    vertical-align: top;
+    
+}
+.title-05{
+    font-size: 36px;
+    font-weight: 700;
+    color: #000000;
+}
+.title-06{
+    font-size: 14px;
+    color: #000000;
+}
+
+.user-table th{
+    background-color: white;
+    color: black;
+    border-color: #dfe5eb;
+    font-weight: 400;
+    vertical-align: top;
+    padding: 30px 15px;    
+    font-family: var(--wsr-font-family, HelveticaNeueW01-55Roma, HelveticaNeueW02-55Roma, HelveticaNeueW10-55Roma), "Helvetica Neue", "Helvetica", "Arial", "\30E1\30A4\30EA\30AA", "meiryo", "\30D2\30E9\30AE\30CE\89D2\30B4 pro w3", "hiragino kaku gothic pro", "sans-serif";
+}
+.user-table thead th:nth-child(3){
+    background-color: #f7f8fa;
+}
+.user-table tbody td:nth-child(3){
+    background-color: #f7f8fa;
+}
+.v-icon{
+    text-align: center;
+}
+.digito{
+    text-align: center;
+}
+.center-table{
+    text-align: center;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 400, 400;
+    font-family: var(--wsr-font-family, HelveticaNeueW01-45Ligh, HelveticaNeueW02-45Ligh, HelveticaNeueW10-45Ligh), "Helvetica Neue", "Helvetica", "Arial", "\30E1\30A4\30EA\30AA", "meiryo", "\30D2\30E9\30AE\30CE\89D2\30B4 pro w3", "hiragino kaku gothic pro", "sans-serif";
+}
+.title-line{
+    font-size: 14px;
+    line-height: 18px;
+    /*font-weight: 530, 400;*/
+    padding: 0 18px;
+    /*height: 48px;*/  
+    align-items: center;
+    font-family: var(--wsr-font-family, HelveticaNeueW01-55Roma, HelveticaNeueW02-55Roma, HelveticaNeueW10-55Roma), "Helvetica Neue", "Helvetica", "Arial", "\30E1\30A4\30EA\30AA", "meiryo", "\30D2\30E9\30AE\30CE\89D2\30B4 pro w3", "hiragino kaku gothic pro", "sans-serif";
+    min-width: 120px;
+}
+#popular{
+    opacity: 1;
+    color: #aa4dc8;
+    font-size: 15px;
+    font-weight: bold;
+    display: flex;
+    align-content: flex-start;*/
+    padding: 7px 9px;
+    max-width: 150px;
+    max-height: 44px;
+    background-color: #fff;
+    justify-content: center;
+    align-items: center;
+    /*text-transform: uppercase;*/
+    /*position: absolute; */
+    margin: auto;
+    border-radius: 3px;
+    width: fit-content;
+    text-align: center;
+    transform: translateY(-200%);
+}
+/*.user-table td{
+    text-align: left;
+} PARA CENTRALIZAR OU POR DE LADO O TEXTO DENTRO DA TABELA*/
